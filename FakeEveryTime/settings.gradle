@@ -1,0 +1,2 @@
+rootProject.name='FakeEveryTime'
+include ':app'

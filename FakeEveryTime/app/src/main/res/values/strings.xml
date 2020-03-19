@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FakeEveryTime</string>
+    <string name="description_image">image</string>
+    <string name="login_intro">대학 생활을 더 편하고 즐겁게</string>
+    <string name="login_name">에브리타임</string>
+    <string name="login_identification">아이디</string>
+    <string name="login_password">비밀번호</string>
+    <string name="login_signin">에브리타임 로그인</string>
+    <string name="login_search">아이디/비밀번호 찾기</string>
+    <string name="login_signup">회원가입</string>
+    <string name="login_facebook">페이스북으로 시작하기</string>
+</resources>

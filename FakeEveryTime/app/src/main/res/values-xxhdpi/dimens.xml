@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="intro_logo_marginTop">96dp</dimen>
+    <dimen name="intro_logo_height">48dp</dimen>
+    <dimen name="intro_text_marginTop">16dp</dimen>
+    <dimen name="intro_text_size">14sp</dimen>
+    <dimen name="intro_logotext_marginTop">4dp</dimen>
+    <dimen name="intro_logotext_size">22sp</dimen>
+    <dimen name="intro_edittext_marginTop">46dp</dimen>
+    <dimen name="intro_button_edittext_width">300dp</dimen>
+    <dimen name="intro_edittext_identification_height">40dp</dimen>
+    <dimen name="intro_button_edittext_password_height">36dp</dimen>
+    <dimen name="intro_marginTop">4dp</dimen>
+    <dimen name="intro_searchtext_marginTop">27dp</dimen>
+    <dimen name="intro_signuptext_marginTop">20dp</dimen>
+    <dimen name="intro_signuptext_size">16sp</dimen>
+    <dimen name="intro_marginBottom">32dp</dimen>
+    <dimen name="intro_facebooklogo_padding">8dp</dimen>
+    <dimen name="intro_facebooklogo_width">16dp</dimen>
+    <dimen name="intro_facebooklogo_height">16dp</dimen>
+</resources>
