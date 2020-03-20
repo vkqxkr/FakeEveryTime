@@ -4,6 +4,7 @@
         <shape>
             <solid android:color="@color/colorGray1"/>
             <corners android:bottomLeftRadius="50dp" android:bottomRightRadius="50dp" android:topLeftRadius="50dp" android:topRightRadius="50dp"/>
+            <padding android:left="15dp" android:right="15dp"/>
         </shape>
     </item>
 </selector>

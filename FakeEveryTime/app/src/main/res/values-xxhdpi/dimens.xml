@@ -18,4 +18,6 @@
     <dimen name="intro_facebooklogo_padding">8dp</dimen>
     <dimen name="intro_facebooklogo_width">16dp</dimen>
     <dimen name="intro_facebooklogo_height">16dp</dimen>
+
+    <dimen name="search_tab_height">40dp</dimen>
 </resources>
