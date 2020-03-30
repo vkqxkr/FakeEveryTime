@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="intro_logo_marginTop">96dp</dimen>
+    <dimen name="intro_logo_marginTop">73dp</dimen>
     <dimen name="intro_logo_height">48dp</dimen>
     <dimen name="intro_text_marginTop">16dp</dimen>
     <dimen name="intro_text_size">14sp</dimen>
